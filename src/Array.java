@@ -4,9 +4,5 @@ public class Array
     public static void main (String[] args)
     {
         int[] list = new int[LIMIT];
-        for (int index = 0; index < LIMIT; index++)
-        {
-
-        }//end for loop
     }//end main
 }//end class Array
